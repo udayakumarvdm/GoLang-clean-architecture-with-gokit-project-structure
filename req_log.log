@@ -1,0 +1,36 @@
+level=info ts=2019-12-17T13:11:46.60912757Z caller=service_impl.go:13 Service>start=(MISSING)
+ts=2019-12-17T13:11:46.609278074Z caller=error_handler.go:27 err="unsupported destination, should be slice or struct"
+level=info ts=2019-12-17T13:16:00.711640937Z caller=service_impl.go:13 Service>start=(MISSING)
+ts=2019-12-17T13:16:00.711764774Z caller=error_handler.go:27 err="unsupported destination, should be slice or struct"
+level=info ts=2019-12-17T13:16:18.513704984Z caller=service_impl.go:13 Service>start=(MISSING)
+ts=2019-12-17T13:16:18.545434209Z caller=error_handler.go:27 err="pq: relation \"responses\" does not exist"
+level=info ts=2019-12-17T13:20:32.509898724Z caller=service_impl.go:13 Service>start=(MISSING)
+level=info ts=2019-12-17T13:20:32.585564416Z caller=service_impl.go:33 Service>start=(MISSING)
+level=debug ts=2019-12-17T13:20:32.585601334Z caller=service_impl.go:25 function="Service function" result="unsupported value type" took=38.805µs
+level=info ts=2019-12-17T13:22:17.612309601Z caller=service_impl.go:13 Service>start=(MISSING)
+level=info ts=2019-12-17T13:22:17.615594054Z caller=service_impl.go:33 Service>start=(MISSING)
+level=debug ts=2019-12-17T13:22:17.615637194Z caller=service_impl.go:25 function="Service function" result="unsupported value type" took=46.43µs
+level=info ts=2019-12-17T13:23:52.627500571Z caller=service_impl.go:13 Service>start=(MISSING)
+level=info ts=2019-12-17T13:23:52.628619048Z caller=service_impl.go:33 Service>start=(MISSING)
+level=debug ts=2019-12-17T13:23:52.628643684Z caller=service_impl.go:25 function="Service function" result="unsupported value type" took=30.334µs
+level=info ts=2019-12-18T06:04:15.692089356Z caller=service_impl.go:13 Service>start=(MISSING)
+level=info ts=2019-12-18T06:04:15.692145349Z caller=usecase_impl.go:25 UsecaseRequestFuctionstart=(MISSING)
+level=info ts=2019-12-18T06:04:15.692157247Z caller=repo_impl.go:27 RepoRequestFuctionstart=(MISSING)
+level=info ts=2019-12-18T06:04:15.693425332Z caller=repo_impl.go:33 RepoRequestFuctionend=(MISSING)
+level=info ts=2019-12-18T06:04:15.6934761Z caller=usecase_impl.go:41 UsecaseRequestFuctionend=(MISSING)
+level=info ts=2019-12-18T06:04:15.693489063Z caller=service_impl.go:33 Service>start=(MISSING)
+level=debug ts=2019-12-18T06:04:15.693498886Z caller=service_impl.go:25 function="Service function" result="unsupported value type" took=10.135µs
+level=info ts=2019-12-18T06:20:26.491013958Z caller=service_impl.go:13 Service>start=(MISSING)
+level=info ts=2019-12-18T06:20:26.491088945Z caller=usecase_impl.go:25 UsecaseRequestFuctionstart=(MISSING)
+level=info ts=2019-12-18T06:20:26.491100981Z caller=repo_impl.go:27 RepoRequestFuctionstart=(MISSING)
+level=info ts=2019-12-18T06:20:26.493215546Z caller=repo_impl.go:33 RepoRequestFuctionend=(MISSING)
+level=info ts=2019-12-18T06:20:26.493292117Z caller=usecase_impl.go:41 UsecaseRequestFuctionend=(MISSING)
+level=info ts=2019-12-18T06:20:26.493306182Z caller=service_impl.go:33 Service>start=(MISSING)
+level=debug ts=2019-12-18T06:20:26.493316429Z caller=service_impl.go:25 function="Service function" result="unsupported value type" took=10.467µs
+level=info ts=2019-12-18T06:21:05.004650996Z caller=service_impl.go:13 Service>start=(MISSING)
+level=info ts=2019-12-18T06:21:05.004699678Z caller=usecase_impl.go:25 UsecaseRequestFuctionstart=(MISSING)
+level=info ts=2019-12-18T06:21:05.00471106Z caller=repo_impl.go:27 RepoRequestFuctionstart=(MISSING)
+level=info ts=2019-12-18T06:21:05.008074345Z caller=repo_impl.go:33 RepoRequestFuctionend=(MISSING)
+level=info ts=2019-12-18T06:21:05.008123416Z caller=usecase_impl.go:41 UsecaseRequestFuctionend=(MISSING)
+level=info ts=2019-12-18T06:21:05.008137373Z caller=service_impl.go:33 Service>start=(MISSING)
+level=debug ts=2019-12-18T06:21:05.008147039Z caller=service_impl.go:25 function="Service function" result="unsupported value type" took=9.856µs

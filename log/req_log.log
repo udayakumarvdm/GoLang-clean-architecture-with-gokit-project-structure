@@ -1,0 +1,7 @@
+level=info ts=2019-12-18T06:36:29.124640927Z caller=service_impl.go:13 Servicelayer=Start
+level=info ts=2019-12-18T06:36:29.124734979Z caller=usecase_impl.go:25 UsecaseRequestFuction=start
+level=info ts=2019-12-18T06:36:29.124750448Z caller=repo_impl.go:27 RepoRequestFuction=start
+level=info ts=2019-12-18T06:36:29.126406803Z caller=repo_impl.go:33 RepoRequestFuction=end
+level=info ts=2019-12-18T06:36:29.12643677Z caller=usecase_impl.go:41 UsecaseRequestFuction=end
+level=info ts=2019-12-18T06:36:29.126452609Z caller=service_impl.go:33 Servicelayer=End
+level=debug ts=2019-12-18T06:36:29.126464102Z caller=service_impl.go:25 function="Service function" result="unsupported value type" took=14.152µs

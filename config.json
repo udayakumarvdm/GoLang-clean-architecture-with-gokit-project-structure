@@ -1,0 +1,15 @@
+{
+    "app": {
+        "name": "Go-Clean-Architecture-Gokit",
+        "debug": true,
+        "host": "0.0.0.0:8086"
+    },
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "postgres",
+        "pass": "postgres",
+        "name": "User"
+    },
+    "logfile":"/home/paxel/go/src/GoLang_clean_architecture_with_gokit_project_structure/log/req_log.log"
+}
